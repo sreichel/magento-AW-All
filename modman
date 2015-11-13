@@ -1,0 +1,6 @@
+app/code/local/AW/All                                       app/code/local/AW/All
+app/etc/modules/*                                           app/etc/modules/
+app/design/adminhtml/default/default/layout/*               app/design/adminhtml/default/default/layout/
+app/design/adminhtml/default/default/template/aw_all/       app/design/adminhtml/default/default/template/aw_all/
+skin/adminhtml/default/default/aw_all                       skin/adminhtml/default/default/aw_all
+js/aw_all                                                   js/aw_all
