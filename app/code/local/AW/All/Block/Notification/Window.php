@@ -38,6 +38,8 @@ class AW_All_Block_Notification_Window extends Mage_Adminhtml_Block_Notification
     {
         if ($this->getIsHtml()) {
             $this->setTemplate('aw_all/notification/window.phtml');
+        } else {
+            $this->setTemplate('aw_all/notification/window/standard.phtml');
         }
         return parent::_toHtml();
     }
